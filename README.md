@@ -16,3 +16,5 @@ healthcare, customer service, and personal assistance, where empathetic and cont
 
 This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful
 engagement in human-robot collaborations.
+
+![image](https://github.com/user-attachments/assets/e9c41cb3-b9fa-4dec-a8c3-981d6752c8a6)
