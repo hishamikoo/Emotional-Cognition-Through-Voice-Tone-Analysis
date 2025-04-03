@@ -1,19 +1,36 @@
-# Emotional-Cognition-Through-Voice-Tone-Analysis
+# 🤖🎤 Emotional Cognition Through Voice Tone Analysis  
 
-Enhancing human-robot interactions through emotional cognition is pivotal for creating intuitive and responsive robotic systems. 
-This study investigates the feasibility of utilizing voice tone as a reliable indicator of emotional states, specifically
-distinguishing between angry and neutral emotions. 
+Enhancing **human-robot interactions** through emotional cognition is pivotal for creating **intuitive** and **responsive** robotic systems. This study explores how **voice tone** can serve as a reliable indicator of emotional states, specifically distinguishing between **angry 😡** and **neutral 😐** emotions.  
 
-Building on existing research in affective computing and benchmark machine learning models for real-time emotion detection, we 
-employ key acoustic features such as Spectral Centroid Mean, Spectral Bandwidth Mean, RMS Mean, and Zero-Crossing Rate Mean to 
-analyze vocal commands. Our experimental design involved analyzing two kinds of audio samples, angry and neutral toned, which 
-were then normalized and examined through PCA and evaluated on effective meachine learning models. 
+## 📌 Overview  
+Building on existing research in **affective computing** and **machine learning**, we analyze key acoustic features such as:  
 
-The results demonstrate significant differences in acoustic metrics, with the angry sample exhibiting higher spectral centroid and bandwidth 
-values, as well as increased loudness and noisiness compared to the neutral sample. These findings indicate that distinct vocal features can 
-effectively signal emotional states, enabling robots to adapt their responses accordingly. Such capabilities are crucial for applications in 
-healthcare, customer service, and personal assistance, where empathetic and context-aware interactions enhance the overall user experience. 
+- 🎼 **Spectral Centroid Mean**  
+- 🎵 **Spectral Bandwidth Mean**  
+- 🔊 **RMS Mean**  
+- 🔁 **Zero-Crossing Rate Mean**  
+- 🎚️ **Spectral Contrast Mean**  
+- 🎤 **Pitch Mean**  
+- 📈 **Pitch Confidence Mean**  
+- 🌀 **Mel Spectrogram Mean**  
+- 📊 **Mel Spectrogram Variance**  
+- ⚡ **Energy Mean**  
 
-This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful
-engagement in human-robot collaborations.
+The experimental design involves analyzing **two types of audio samples**—angry and neutral tones—which were **normalized** to a specific peak amplitude, processed through **PCA**, and evaluated using **machine learning models** for emotion detection.  
+
+## 🔬 Key Findings  
+📈 The study reveals **significant differences** in acoustic metrics:  
+
+✅ Angry samples exhibit **higher spectral centroid and bandwidth values**  
+✅ Increased **loudness** and **noisiness** in angry tones compared to neutral ones  
+✅ These distinct vocal features enable robots to **adapt responses accordingly**  
+
+Such capabilities are crucial for applications in **healthcare 🏥**, **customer service 📞**, and **personal assistance 🤖**, where **empathetic** and **context-aware** interactions enhance the overall user experience.  
+
+## 📂 Dataset & Research Paper  
+📌 **Dataset (Excel Format - Downloadable)**: [Click here to access the dataset 📊](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/cr_dataset.xlsx)  
+📌 **Full Research Paper**: [Read the detailed study 📑](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)  
+
+## 🚀 Contribution to AI & Robotics  
+This research contributes to the development of **emotionally intelligent robotic systems**, bridging the gap between **functional support** and **meaningful engagement** in human-robot collaborations. By enabling robots to **recognize** and **respond** to emotional cues, we move closer to **truly adaptive AI-driven interactions**.  
 
